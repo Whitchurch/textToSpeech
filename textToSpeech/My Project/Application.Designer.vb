@@ -32,7 +32,7 @@ Namespace My
 
         <Global.System.Diagnostics.DebuggerStepThroughAttribute()> _
         Protected Overrides Sub OnCreateMainForm()
-            Me.MainForm = Global.textToSpeech.Form1
+            Me.MainForm = Global.textToSpeech.textToSpeechUI
         End Sub
     End Class
 End Namespace
